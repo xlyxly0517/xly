@@ -1,0 +1,25 @@
+Dependent variable:Net capital flows(% GDP),,,,
+regressor,-1,-2,-3,-4
+"growth rate
+(GDP per capita growth (%))","-0.0066**
+(0.025)","-0.0068**
+(0.025)","-0.0068
+(0.023)","0.0229
+(0.0369)"
+ka_open（The Chinn-Ito Index）,"-2.76**
+(0.675)","-3.038**
+(0.763)","-3.003
+(1.073)","-2.8929
+(0.5369)"
+gee（government effectiveness estimation）,"-0.336**
+(0.345)","-0.078**
+(0.455)","-0.072
+(0.801)","0.0629
+(0.817)"
+Years,1980 to 2019,1980 to 2019,1980 to 2019,1980 to 2019
+Fixed effects,No,Yes,Yes,Yes
+Time effects,No,No,No,Yes
+"Clustered standard 
+errors(country)",No,No,Yes,Yes
+N,2475,2475,2475,2475
+R-square,0.564,0.58,0.58,0.583
